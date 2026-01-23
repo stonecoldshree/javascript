@@ -1,0 +1,10 @@
+// let value=2;
+// let neg_value=-2;
+// console.log(neg_value);
+// let str1="Sujal";
+// let str2=" shree";
+// console.log(str1+str2);
+//console.log("1"+2+2);
+//console.log(1+2+"2");
+let a=2;
+console.log(a++ + ++a);
