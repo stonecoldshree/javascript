@@ -1,0 +1,10 @@
+let age=18;
+let name="Sujal";
+let isloggedIn=true;
+let state=null;
+let city;
+console.log(typeof age);
+console.log(typeof name);
+console.log(typeof isloggedIn);
+console.log(typeof state);
+console.log(typeof city);
